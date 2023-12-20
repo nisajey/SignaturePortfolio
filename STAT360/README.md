@@ -1,1 +1,12 @@
+Project 1- Exploratory Data Analysis
+
+In the Exploratory Data Analysis, I undertook a comprehensive exploration of the selected dataset through meticulous data cleaning and analysis. A key aspect of the process involved addressing character variables such as 'ell,' 'homeless,' 'free_and_reduced,' and 'disability,' converting them to numeric values for a more coherent analysis. Notably, variables exhibited missing values, influencing their means. I implemented code to calculate means while disregarding these missing values. Furthermore, I delved into assessing skewness, uncovering that the removal of outliers significantly impacted skewness and kurtosis. Consequently, I underscored the importance of generating a matrix void of outliers to ensure a more accurate representation of the data. The findings and insights from this exploratory data analysis are encapsulated in the knitted R markdown file, providing a detailed account of each analytical step taken.
+
+Project 2 - Exploratory Factor Analysis
+
+In the Exploratory Factor Analysis , I conducted a thorough analysis focused on the identification and exploration of intrinsic dimensionality within both response and predictor variables. I employed advanced techniques to extract unrotated loading matrices and systematically determined optimal orthogonal rotations to enhance interpretability. Additionally, I delved into the selection and evaluation of optimal oblique rotations, critically examining their necessity in the context of the dataset. Through this process, I addressed any lingering complexity or lack of purity within the original dimensions. The findings are consolidated in a comprehensive summary that interprets the variance explained by the selected rotations, providing a nuanced understanding of the underlying patterns in the data.
+
+Project 3 - Structural Equation Model
+
+In the Structural Equation Model phase, I used insights from the Exploratory Factor Analysis (EFA) to create a structural equation model (SEM) and figure out the degrees of freedom in the model. I carefully identified and discussed the indicators representing the different factors in the SEM. When it came to predicting things, I pointed out and discussed the important predictors linked to both response variables and factors. To make it more practical and understandable, I explained the real-world significance of the estimated model parameters. Finally, I summarized and explained how well the model fits the observed data. You can find a more detailed explanation in the R markdown file.
 
